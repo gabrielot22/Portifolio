@@ -4,12 +4,13 @@ Este é o portfólio de Gabriel Oliveira, um desenvolvedor Front-end especializa
 
 ## Estrutura do Projeto
 
-O projeto é composto pelos seguintes arquivos:
-
-- `index.html`: Página inicial do portfólio.
-- `Projects.html`: Página de projetos.
-- `about.html`: Página sobre Gabriel Oliveira.
-- `style.css`: Arquivo de estilos CSS para todas as páginas.
+O projeto é composto pelos seguintes pastas e arquivos:
+A estrutura em html das paginas está em "src" com os arquivos:
+  - `index.html`: Página inicial do portfólio.
+  - `Projects.html`: Página de projetos.
+  - `about.html`: Página sobre Gabriel Oliveira.
+Os estilos das paginas estão localizadas na pasta "styles" com os arquivos:
+  - `style.css`: Arquivo de estilos CSS para todas as páginas.
 
 ## Como Visualizar o Projeto
 
